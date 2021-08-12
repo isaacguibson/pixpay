@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/guibson/pixpay/BuildConfig.java
+ com.guibson.pixpay.BuildConfig
