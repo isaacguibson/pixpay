@@ -1,16 +1,17 @@
-# dnro
+# PIXPAY
 
-A new Flutter project.
+Um aplicativo de prêmios com um back-end em nodeJS
 
-## Getting Started
+## Iniciando
 
-This project is a starting point for a Flutter application.
+Inicialmente você deve instalar as dependências do projeto com
 
-A few resources to get you started if this is your first Flutter project:
+- flutter pub get
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Após isso, com seu celular android ou emulador ativo, você deve rodar
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- flutter run
+
+Para identificar falhas em seu ambiente, rode
+
+- flutter doctor
